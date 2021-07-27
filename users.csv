@@ -1,0 +1,4 @@
+username,group,shell,homedir,status
+user1,dev,/bin/bash,,
+user2,dev,/sbin/nologin,,
+user3,,,,N
